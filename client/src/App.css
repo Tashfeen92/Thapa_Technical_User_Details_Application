@@ -1,0 +1,26 @@
+#home-welcome {
+  position: absolute;
+  top: 35%;
+  left: 0%;
+  right: 0%;
+}
+#home-userName {
+  position: absolute;
+  top: 40%;
+  left: 0%;
+  right: 0%;
+}
+#home-we-are-home-developer {
+  position: absolute;
+  /* top: 40%; */
+  left: 0%;
+  right: 0%;
+}
+#error404 {
+  z-index: -1;
+  color: rgb(226, 226, 226);
+  position: absolute;
+  top: 20%;
+  left: 0%;
+  right: 0%;
+}
